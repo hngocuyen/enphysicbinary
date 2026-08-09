@@ -1,4 +1,4 @@
-﻿# Enphysic Binary Runtimes
+# Enphysic Binary Runtimes
 
 Native runtimes selected automatically by WEX loaders. A runtime is downloaded once into `.enphysic/<target>/` and then reused locally. Every loader passes the published SHA-256 to the native runtime, which verifies its own loaded file before executing a protected payload.
 
