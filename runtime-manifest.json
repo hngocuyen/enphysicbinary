@@ -1,50 +1,50 @@
 {
-  "format": "enphysic-runtime-v1",
-  "version": "1.2.0",
-  "repository": "https://github.com/hngocuyen/enphysicbinary",
-  "branch": "main",
-  "runtimes": {
-    "windows-x86": {
-      "filename": "__enphysic.dll",
-      "bytes": 33081368,
-      "sha256": "a24b96e808bec3e3e08ac01f2012ebe678e1762ed456891df841a9ffcc3bc14b",
-      "url": "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.0/windows-x86/__enphysic.dll?v=a24b96e808bec3e3",
-      "version": "1.2.0"
-    },
-    "windows-x86_64": {
-      "filename": "__enphysic.dll",
-      "bytes": 27252760,
-      "sha256": "e500b003830814149c68824b949457be89810967ddad4c846b4b23bf2ee256e9",
-      "url": "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.0/windows-x86_64/__enphysic.dll?v=e500b00383081414",
-      "version": "1.2.0"
-    },
-    "linux-x86_64": {
-      "filename": "libenphysic.so",
-      "bytes": 9288432,
-      "sha256": "2e469c9772a2b4f6b6fb20f74b8d50f42048f02fa85111e750e9f3d66bbc75e9",
-      "url": "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.0/linux-x86_64/libenphysic.so?v=2e469c9772a2b4f6",
-      "version": "1.2.0"
-    },
-    "linux-aarch64": {
-      "filename": "libenphysic.so",
-      "bytes": 1153571,
-      "sha256": "3e4e555373f205b1eda6e9c8f6f748a9ca778cafed41b6b806a9955db907bd95",
-      "url": "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.0/linux-aarch64/libenphysic.so?v=3e4e555373f205b1",
-      "version": "1.2.0"
-    },
-    "termux-x86_64": {
-      "filename": "libenphysic.so",
-      "bytes": 9293270,
-      "sha256": "e4c9f4afe17b4024a6b0a74df18583674dd8c77c0c5ae252c37c526472251f51",
-      "url": "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.0/termux-x86_64/libenphysic.so?v=e4c9f4afe17b4024",
-      "version": "1.2.0"
-    },
-    "termux-aarch64": {
-      "filename": "libenphysic.so",
-      "bytes": 1017026,
-      "sha256": "c3c635074496881ccd009f6fbe6a6a730b5f914075ffab89fbfa497ae7776529",
-      "url": "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.0/termux-aarch64/libenphysic.so?v=c3c635074496881c",
-      "version": "1.2.0"
-    }
-  }
+    "format":  "enphysic-runtime-v1",
+    "version":  "1.2.1",
+    "repository":  "https://github.com/hngocuyen/enphysicbinary",
+    "branch":  "main",
+    "runtimes":  {
+                     "windows-x86":  {
+                                         "filename":  "__enphysic.dll",
+                                         "bytes":  33091608,
+                                         "sha256":  "da26fa9ef8211a1117b997d969f36b111416ec342cb4e20845d1b13a2c3d5b94",
+                                         "url":  "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.1/windows-x86/__enphysic.dll?v=da26fa9ef8211a11",
+                                         "version":  "1.2.1"
+                                     },
+                     "windows-x86_64":  {
+                                            "filename":  "__enphysic.dll",
+                                            "bytes":  27250712,
+                                            "sha256":  "15fc02ae5ff30aeb733a070889102d90a9e87ed4e3c618919c415adc5729627a",
+                                            "url":  "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.1/windows-x86_64/__enphysic.dll?v=15fc02ae5ff30aeb",
+                                            "version":  "1.2.1"
+                                        },
+                     "linux-x86_64":  {
+                                          "filename":  "libenphysic.so",
+                                          "bytes":  9292800,
+                                          "sha256":  "758a35d45250e4ea6c5ee6e857291a65961f5199afdde40fc96181494b56a257",
+                                          "url":  "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.1/linux-x86_64/libenphysic.so?v=758a35d45250e4ea",
+                                          "version":  "1.2.1"
+                                      },
+                     "linux-aarch64":  {
+                                           "filename":  "libenphysic.so",
+                                           "bytes":  1153950,
+                                           "sha256":  "225150afcdf99c1049e88c8aa3e26d84e56615a893a98b3200d19ccee8eebd1a",
+                                           "url":  "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.1/linux-aarch64/libenphysic.so?v=225150afcdf99c10",
+                                           "version":  "1.2.1"
+                                       },
+                     "termux-x86_64":  {
+                                           "filename":  "libenphysic.so",
+                                           "bytes":  9297638,
+                                           "sha256":  "d33e610ce156e5ce103f6616463fab9fc6a26be5dd59a7c8230ff2b7576a3c45",
+                                           "url":  "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.1/termux-x86_64/libenphysic.so?v=d33e610ce156e5ce",
+                                           "version":  "1.2.1"
+                                       },
+                     "termux-aarch64":  {
+                                            "filename":  "libenphysic.so",
+                                            "bytes":  1017306,
+                                            "sha256":  "e47e305f772b71040f52b2d9fc4d75f223892c737fe261e750691a48b6149671",
+                                            "url":  "https://raw.githubusercontent.com/hngocuyen/enphysicbinary/main/1.2.1/termux-aarch64/libenphysic.so?v=e47e305f772b7104",
+                                            "version":  "1.2.1"
+                                        }
+                 }
 }
